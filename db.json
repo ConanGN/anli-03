@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "id": "xalnobm9",
+      "title": "训练营2",
+      "content": "React 基础到进阶"
+    },
+    {
       "id": "jijumrqh",
       "title": "训练营1",
       "content": "React 基础到进阶"
